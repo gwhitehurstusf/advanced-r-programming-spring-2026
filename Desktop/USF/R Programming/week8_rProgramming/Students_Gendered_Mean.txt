@@ -1,3 +1,0 @@
-"Sex" "Mean_Grade"
-"Female" 86.9375
-"Male" 80.25
